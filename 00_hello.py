@@ -1,0 +1,7 @@
+print("hello")
+a = int(input("숫자를 입력해 주세요."))
+b = "%d + 3 = %d" %(a, a+3)
+print(b)
+c = str(input("이름을 입력해 주세요."))
+d = "반갑습니다. %s님" %(c)
+print(d)
